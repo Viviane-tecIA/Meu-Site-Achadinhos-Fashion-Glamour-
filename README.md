@@ -1,36 +1,24 @@
+# ✨ Achadinhos Fashion Glamour
 
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Achadinhos Fashion Glamour</title>
-    
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+> Projeto de curadoria de moda e estilo desenvolvido com HTML e CSS.
 
-    <style>
-        /* Estilos Gerais */
-        body {
-            font-family: 'Montserrat', sans-serif;
-            background-color: #fdfbfb;
-            color: #333;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            flex-direction: column; /* Alinha tudo um embaixo do outro */
-            align-items: center;
-            text-align: center;
-        }
+---
 
-        /* Cabeçalho */
-        header {
-            padding: 60px 20px;
-            background: linear-gradient(135deg, #ff9a9e 0%, #fad0c4 100%);
-            color: white;
-            width: 100%;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-            box-sizing: border-box;
-        }
+## 🎨 Sobre o Projeto
+O **Achadinhos Fashion Glamour** é um site estilo "Landing Page" ou "Linktree" personalizado, focado em apresentar tendências de moda e promoções selecionadas. O design prioriza a elegância e a simplicidade, com uma paleta de cores moderna e tipografia clássica.
 
-        h1 {
-            font-family: 'Playfair Display', serif;
+## 🛠️ Tecnologias Utilizadas
+* **HTML5**: Estrutura semântica do projeto.
+* **CSS3**: Estilização com Flexbox para layout responsivo.
+* **Google Fonts**: Fontes *Montserrat* e *Playfair Display*.
+
+## 🚀 Como visualizar
+1. Faça o download ou clone este repositório.
+2. Localize o arquivo `index.html`.
+3. Abra o arquivo em qualquer navegador (Chrome, Edge, Safari, etc).
+
+## 📁 Estrutura de Arquivos
+```text
+/
+├── index.html    # Arquivo principal com estrutura e estilos
+└── README.md     # Documentação do projeto
