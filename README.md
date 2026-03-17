@@ -1,24 +1,25 @@
 # ✨ Achadinhos Fashion Glamour
 
-> Projeto de curadoria de moda e estilo desenvolvido com HTML e CSS.
+> Curadoria exclusiva de moda e estilo com design elegante e funcional.
+
+## 🔗 Acesse a Vitrine
+Clique no link abaixo para conferir nossa seleção de produtos:
+👉 [**https://achadinhos-gbcnzjpt.manus.space**](https://achadinhos-gbcnzjpt.manus.space)
 
 ---
 
 ## 🎨 Sobre o Projeto
-O **Achadinhos Fashion Glamour** é um site estilo "Landing Page" ou "Linktree" personalizado, focado em apresentar tendências de moda e promoções selecionadas. O design prioriza a elegância e a simplicidade, com uma paleta de cores moderna e tipografia clássica.
+O **Achadinhos Fashion Glamour** foi desenvolvido para ser uma vitrine digital de alta conversão. O design utiliza uma estética "clean" e sofisticada, focando na experiência do usuário e na facilidade de navegação entre as tendências de moda.
 
 ## 🛠️ Tecnologias Utilizadas
-* **HTML5**: Estrutura semântica do projeto.
-* **CSS3**: Estilização com Flexbox para layout responsivo.
-* **Google Fonts**: Fontes *Montserrat* e *Playfair Display*.
+* **HTML5**: Estrutura semântica para melhor organização.
+* **CSS3**: Estilização moderna com Flexbox para garantir que todos os elementos fiquem perfeitamente alinhados e empilhados.
+* **Tipografia Premium**: Integração com Google Fonts (*Montserrat* e *Playfair Display*) para transmitir elegância.
 
-## 🚀 Como visualizar
-1. Faça o download ou clone este repositório.
-2. Localize o arquivo `index.html`.
-3. Abra o arquivo em qualquer navegador (Chrome, Edge, Safari, etc).
+## 📁 Diferenciais do Código
+- **Single File Structure**: HTML e CSS unificados para carregamento ultra-rápido.
+- **Mobile First**: Layout totalmente adaptado para visualização em celulares.
+- **UI/UX**: Uso de gradientes suaves e sombras sutis para um visual de luxo.
 
-## 📁 Estrutura de Arquivos
-```text
-/
-├── index.html    # Arquivo principal com estrutura e estilos
-└── README.md     # Documentação do projeto
+---
+✨ *Projeto desenvolvido para unir tecnologia e o universo da moda.*
